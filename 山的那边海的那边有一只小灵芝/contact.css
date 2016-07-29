@@ -1,0 +1,88 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.tc{
+	width: 100%;
+	min-width: 1366px;
+	height: 1000px;
+	/*height: 90%;*/
+	background: url(o16.png);
+	background-size: cover;
+}
+.top{
+	margin-bottom: 50px;
+}
+.o17{
+	position: absolute;
+	left: 160px;
+	top:45px;
+}
+.top ul{
+	width: 1182px;
+	height: 33px;
+	margin: 0 auto;
+	background-color: black;
+	list-style: none;
+}
+.top ul li{
+	width: 96px;
+	height: 33px;
+	text-align: center;
+	margin-left: 0px;
+	float: left;
+}
+.li1{
+	margin-left: 30px;
+}
+.top a{
+	text-decoration: none;
+	color: white;
+	font-family: microsoft yahei;
+	font-size: 12px;
+	line-height: 33px;
+}
+.top a:hover{
+	color: pink;
+}
+.f1{
+	width: 1280px;
+	height: 918px;
+	z-index: -1;
+	position: absolute;
+	left: 193px;
+	top:41px;
+}
+.foot{
+	margin: 0 auto;
+	width: 114px;
+	height: 60px;
+	width:100%;
+	background-color:#f4f4f4;
+}
+.foot1{
+	background-color:#f4f4f4;
+	width: 1580px;
+	margin: 0 auto;
+
+}
+.foot ul{
+	list-style: none;
+	margin-left: 220px;
+}
+.foot ul li a{
+     color: #6b6b6b;
+     font-family: microsoft yahei;
+     font-size: 12px;
+     text-decoration: none;
+ }
+ .foot1 p{
+	color: #6b6b6b;
+     font-family: microsoft yahei;
+     font-size: 12px;
+	margin-left: 80px;
+}
+.foot ul,.foot p{
+ 	float: left;
+ 	line-height:57px;
+ } 

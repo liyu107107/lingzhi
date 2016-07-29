@@ -1,0 +1,94 @@
+*{
+	margin:0;
+	padding: 0;
+	}
+
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.top{
+	height: 10%
+	margin-bottom: 50px;
+	width: 100%;
+	/*max-width: 1600px;*/
+	/*min-width: 1366px;*/
+    background-color: black;
+}
+.top2{
+	width: 1240px;
+	height: 33px;
+	margin: 0 auto;
+	background-color: black;
+}
+.top2 ul{
+    list-style: none;
+}
+.top2 ul li{
+    width:96px; 
+    height:33px;
+    text-align: center;
+    margin-left: 2px;
+    float: left;
+}
+.li1{
+	margin-right: 30px;
+}
+.top2 a{
+	text-decoration: none;
+	color: white;
+	font-family: microsoft yahei;
+	font-size: 12px;
+	line-height: 33px;
+	margin-left: ;
+}
+.top2 a:hover{
+	color: pink;
+}
+.center{
+	background: url(O14.png) no-repeat;
+	height: 540px;
+	width: 1240px;
+	margin: 0 auto;
+	background-color: white;
+	/*height: 80%;*/
+	/*width: 100%;*/
+}
+.foot1{
+	height: 10%;
+	width: 100%;
+	background: #f4f4f4;
+}
+
+.foot{
+	margin-top: -10px;
+	height: 60px;
+	background: #f4f4f4;
+	width: 1155px;
+	margin: 0 auto;
+	border-top: 1px ;
+}
+.foot ul li{
+	list-style: none;
+	float: left;
+	margin-right: 50px;
+
+}
+.foot ul li a{
+     color: #6b6b6b;
+     font-family: microsoft yahei;
+     font-size: 12px;
+     text-decoration: none;
+ }
+ .foot ul,.foot p{
+ 	float: left;
+ 	line-height:57px;
+ } 
+.foot p{
+	color: #6b6b6b;
+     font-family: microsoft yahei;
+     font-size: 12px;
+	margin-left: 80px;
+}

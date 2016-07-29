@@ -1,0 +1,140 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: black;
+}
+.top{
+	width: 100%;
+	height: 30px;
+	margin-bottom: 40px;
+}
+.t1{
+	width: 1140px;
+	margin: 0 auto;
+}
+.t1 a{
+	color: white;
+	text-decoration: none;
+	font-size: 12px;
+	font-family: microsoft yahei;
+	margin-left: 40px;
+}
+
+.center{
+	/*margin-top: 30px;*/
+	width: 1140px;
+	height: 720px;
+	margin: 0 auto;
+	background-color: #f5f5f5;
+	/*padding-left: 50px;*/
+	/*padding-right: 20px;*/
+    overflow: hidden;
+    /*text-align: center;*/
+}
+.cin{
+	position: relative;
+	overflow: hidden;
+	margin-left: 30px;
+	margin-top: 30px;
+	height: 590px;
+	width: 1077px;
+	background-color: white;
+}
+.cin1{
+	margin-top: 20px;
+	margin-left: 20px;
+	width: 1022px;
+	height: 99px;
+	border-bottom:dotted ;
+}
+.cin1 .u2 li{
+	font-family: mcirosoft yahei;
+	font-size: 12px;
+	color: gray;
+	/*margin-left: 50px;*/
+	list-style: none;
+	margin-top: 10px;
+}
+.cin1 ul{
+		list-style: none;
+    margin-top: 5px;
+	 float: right;
+	 margin-left: 60px;
+}
+.cin1 img{
+	float: left;
+	margin-left: 50px;
+	margin-top: 15px;
+}
+
+	.cin .u2 li{
+
+        float: left;
+		list-style:none;
+		width: 24px;
+		height: 24px;
+		background-color: #ebebeb;
+		float: left;
+		margin-left: 4px;
+		text-align: center;
+	}
+	.cin .u2 li a{
+		font-family: microsoft yahei;
+		text-decoration: none;
+		color:#797979;
+        font-size: 12px; 
+	}
+	.cin .u2 .li1,.cin .u2 .li6{
+		background-color: purple
+	}
+	 .li1 a{
+		color: white;
+	}
+	.cin .u2 .li2,.cin .u2 .li3,.cin .u2 .li4,.cin .u2 .li5{
+		width: 54px;
+		height: 24px;
+	}
+	.cin .u2 .li4,.cin .u2 .li5{
+		background-color:white;
+	}.cin .u2 .li4 a,.cin .u2 .li5 a{
+		color: black;
+	}
+	.u2{
+		position: absolute;
+		left: 650px;
+		top: 532px;
+	}
+
+
+
+
+	.foot1{
+	background-color:#f4f4f4;
+	width: 100%;
+	margin-top: 70px;
+	height: 60px;
+
+}
+.foot ul{
+	list-style: none;
+	margin-left: 218px;
+}
+.foot ul li a{
+     color: #6b6b6b;
+     font-family: microsoft yahei;
+     font-size: 12px;
+     text-decoration: none;
+ }
+ .foot1 p{
+	color: #6b6b6b;
+     font-family: microsoft yahei;
+     font-size: 12px;
+	margin-left: 200px;
+}
+.foot ul,.foot1 p{
+ 	float: left;
+ 	line-height:57px;
+ } 
